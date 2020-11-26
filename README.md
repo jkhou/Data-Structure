@@ -2,7 +2,7 @@
 
 ## :coffee: 线性表
 - [链表](https://github.com/jkhou/Data-Structure/blob/main/%E7%BA%BF%E6%80%A7%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)
-- [6. 从尾到头打印链表](6.%20从尾到头打印链表.md)
+- [6. 从尾到头打印链表](https://github.com/jkhou/Data-Structure/blob/main/%E7%BA%BF%E6%80%A7%E8%A1%A8/6.%20%E4%BB%8E%E5%B0%BE%E5%88%B0%E5%A4%B4%E6%89%93%E5%8D%B0%E9%93%BE%E8%A1%A8.md)
 - [18. 删除链表中重复的节点](18.%20删除链表中重复的节点.md)
 - [22. 链表中倒数第k个节点](22.%20链表中倒数第k个节点.md)
 - [23. 链表中环的入口节点](23.%20链表中环的入口节点.md)
