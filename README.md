@@ -35,4 +35,5 @@
 - [30. 包含min函数的栈](https://github.com/jkhou/Data-Structure/blob/main/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97/30.%20%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.md)
 
 ## :bulb: 数组与矩阵
--[数组与矩阵]
+- [数组与矩阵](https://github.com/jkhou/Data-Structure/tree/main/%E6%95%B0%E7%BB%84%E4%B8%8E%E7%9F%A9%E9%98%B5)
+- [3. 数组中重复的数字](https://github.com/jkhou/Data-Structure/blob/main/%E6%95%B0%E7%BB%84%E4%B8%8E%E7%9F%A9%E9%98%B5/3.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
