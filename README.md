@@ -40,3 +40,4 @@
 - [4. 二维数组中的查找](https://github.com/jkhou/Data-Structure/blob/main/%E6%95%B0%E7%BB%84%E4%B8%8E%E7%9F%A9%E9%98%B5/4.%20%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.md)
 - [5. 替换空格](https://github.com/jkhou/Data-Structure/blob/main/%E6%95%B0%E7%BB%84%E4%B8%8E%E7%9F%A9%E9%98%B5/5.%20%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
 - [29. 顺时针打印矩阵](https://github.com/jkhou/Data-Structure/blob/main/%E6%95%B0%E7%BB%84%E4%B8%8E%E7%9F%A9%E9%98%B5/29.%20%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
+- [66. 构建乘积数组](https://github.com/jkhou/Data-Structure/blob/main/%E6%95%B0%E7%BB%84%E4%B8%8E%E7%9F%A9%E9%98%B5/66.%20%E6%9E%84%E5%BB%BA%E4%B9%98%E7%A7%AF%E6%95%B0%E7%BB%84.md)
